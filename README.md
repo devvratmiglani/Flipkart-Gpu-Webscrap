@@ -13,7 +13,7 @@ Simple Flipkart gpu webscrap using Python and Libaries including BeautifulSoup4 
 
 
 
-# Extracts Information Such as:
+## Extracts Information Such as:
 Title
 
 Current Price
