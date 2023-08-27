@@ -1,5 +1,7 @@
-#FOR GPU
+#@github: https://github.com/devvratmiglani/Flipkart-Gpu-Webscrap.git
+#@Author: https://github.com/devvratmiglani
 
+#FOR GPU
 import requests
 from bs4 import BeautifulSoup
 
