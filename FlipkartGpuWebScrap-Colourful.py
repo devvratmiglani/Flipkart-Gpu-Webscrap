@@ -1,3 +1,6 @@
+#@github: https://github.com/devvratmiglani/Flipkart-Gpu-Webscrap.git
+#@Author: https://github.com/devvratmiglani
+
 #FOR GPU
 from colorama import Fore
 import requests
